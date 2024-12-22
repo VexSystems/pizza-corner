@@ -2,11 +2,11 @@
 
 ### Live Website 👀
 
-- ### [Live Website](https://velimirpaleksic.github.io/pizza-corner/)
+- ### [Live Website](https://vexsystems.github.io/pizza-corner/)
 
 ### Bugs & features 🧩
-- [Report bug](https://github.com/velimirpaleksic/pizza-corner/issues)
-- [Request Feature](https://github.com/velimirpaleksic/pizza-corner/issues)
+- [Report bug](https://github.com/vexsystems/pizza-corner/issues)
+- [Request Feature](https://github.com/vexsystems/pizza-corner/issues)
 
 ### Sections 📚
 - Welcome
